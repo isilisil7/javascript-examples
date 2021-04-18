@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexamples",
+  "version": "1.0.0",
+  "description": "nodejs tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Işıl ÖZKAYNAK",
+  "license": "MIT"
+}
